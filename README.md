@@ -1,6 +1,6 @@
-![GitHub stars](https://img.shields.io/github/stars/spectre-pro/gemini-proxy?style=social)  
+[![GitHub stars](https://img.shields.io/github/stars/spectre-pro/gemini-proxy?style=social)](https://github.com/spectre-pro/gemini-proxy/stargazers)  
 [![GitHub forks](https://img.shields.io/github/forks/spectre-pro/gemini-proxy?style=social)](https://github.com/spectre-pro/gemini-proxy/forks)  
-![GitHub watchers](https://img.shields.io/github/watchers/spectre-pro/gemini-proxy?style=social)  
+[![GitHub watchers](https://img.shields.io/github/watchers/spectre-pro/gemini-proxy?style=social)](https://github.com/spectre-pro/gemini-proxy/watchers)  
 ![GitHub repo size](https://img.shields.io/github/repo-size/spectre-pro/gemini-proxy)  
 ![GitHub language count](https://img.shields.io/github/languages/count/spectre-pro/gemini-proxy)  
 ![GitHub top language](https://img.shields.io/github/languages/top/spectre-pro/gemini-proxy)  
